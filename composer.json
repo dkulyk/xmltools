@@ -1,0 +1,16 @@
+{
+    "name": "dkulyk/xmltools",
+    "description": "PHP XML Tools",
+    "type": "library",
+    "require": {
+        "php": ">5.5.9",
+        "ext-dom": "*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dmytro Kulyk",
+            "email": "lnkvisitor.ts@gmail.com"
+        }
+    ]
+}
